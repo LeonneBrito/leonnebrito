@@ -1,6 +1,6 @@
 # Leonne Brito
 
-Front-End Developer.
+Eletrical Enginnering and Front-end Developer.
 
 <a href="https://www.linkedin.com/in/leonne-sousa-brito/">
   <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />

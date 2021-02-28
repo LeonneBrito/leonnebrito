@@ -16,4 +16,4 @@ Passionate about the whole Javascript ecosystem. Currently working as a junior p
 
 I'm currently trying to learn a little more about Adonis JS and Vue / Nuxt.js and looking for freelas.
 
-And yes I like Toddynho very much.
+And yes I like ( ❤ ) Toddynho very much.

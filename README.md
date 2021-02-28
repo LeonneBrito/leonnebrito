@@ -3,7 +3,7 @@
   <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 
-### Hi there 👋
+# Hi there 👋
 
 I'm Leonne Brito. I'm Front End developer who is passionate about JavaScript technologies and its entire ecosystem.
 

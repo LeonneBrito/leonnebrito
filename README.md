@@ -12,6 +12,6 @@
 I'm Leonne Brito. I'm Front End developer who is passionate about JavaScript technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on Javascript apps.
-- 🌱 I’m currently learning Vue and Nuxt.js.
+- 🌱 I’m currently learning Back End development.
 - 💬 Ask me about World of Warcraft, League of Legends, animes and investments.
 - ⚡ Fun fact: I like Toddynho a lot.

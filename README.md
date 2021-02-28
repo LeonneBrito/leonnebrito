@@ -10,9 +10,7 @@ Front-End Developer.
   <img alt="Email" src="https://img.shields.io/badge/-contato%40leonnebrito.com.br-%23525DCB" />
 </a>
 
-# Hi there 👋
-
-I'm Leonne Brito. I'm Front-End developer who is passionate about JavaScript technologies and its entire ecosystem.
+:stars: Enthusiast of the web & mobile development.
 
 - 🔭 I’m currently working on Javascript apps.
 - 🌱 I’m currently learning Back-End development.

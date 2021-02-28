@@ -10,9 +10,13 @@ Front-End Developer.
   <img alt="Email" src="https://img.shields.io/badge/-contato%40leonnebrito.com.br-%23525DCB" />
 </a>
 
+
 :stars: Enthusiast of the web & mobile development.
 
-- 🔭 I’m currently working on Javascript apps.
-- 🌱 I’m currently learning Back-End development.
+- 🔭 Passionate about the whole Javascript ecosystem. Currently working as a junior programmer at <a href="https://tropicalpuppy.com/">Tropical Puppy</a>  in game development <a href="https://store.steampowered.com/app/416000/Fantasy_Farming_Orange_Season/">Fantasy Farming: Orange Season</a>
+
+- 🌱 Currently trying to learn a little more about the backend.
+
 - 💬 Ask me about World of Warcraft, League of Legends, animes, hardware and investments.
+- 
 - ⚡ Fun fact: I like Toddynho a lot.

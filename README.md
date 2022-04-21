@@ -1,10 +1,10 @@
 ### Hi there, i'm Leonne 👋
 
-🤓 Senior Front-end engineer. <br>
+🤓 Senior Front-end Engineer at Reserva and SemParar. <br>
 🇧🇷 Born in Parauapebas, Brazil <br>
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://leonnebrito.com.br) <br>
+🚀 [Website](https://leonnebrito.com.br) <br>
 📸 [Instagram](https://instagram.com/leonnebrito) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/leonne-sousa-brito/) <br>

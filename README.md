@@ -1,6 +1,6 @@
 ### Hi there, i'm Leonne 👋
 
-🤓 Senior Front-end Engineer at Reserva and Sem Parar. <br>
+🤓 Senior Front-end Engineer <br>
 🇧🇷 Born in Parauapebas, Brazil <br>
 🇧🇷 Living in Curitiba, Brazil <br>
 

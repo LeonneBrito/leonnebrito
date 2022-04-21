@@ -1,6 +1,6 @@
 ### Hi there, i'm Leonne 👋
 
-🤓 Senior Front-end engineer.
+🤓 Senior Front-end engineer. <br>
 🇧🇷 Born in Parauapebas, Brazil <br>
 
 ### Find me elsewhere 🌎

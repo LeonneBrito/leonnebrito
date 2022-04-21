@@ -1,6 +1,6 @@
 ### Hi there, i'm Leonne 👋
 
-🤓 Front-end Developer at [@Globalsys](https://www.globalsys.com.br/) | [@Reserva](https://usereserva.com/) <br>
+🤓 Senior Front-end engineer.
 🇧🇷 Born in Parauapebas, Brazil <br>
 
 ### Find me elsewhere 🌎

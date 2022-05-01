@@ -6,7 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
-💼 Currently working at [Reserva](https://usereserva.com/) and [Sem Parar](https://www.semparar.com.br/)<br>
+💼 Currently working at [Reserva](https://usereserva.com/).
 
 ### Find me elsewhere 🌎
 

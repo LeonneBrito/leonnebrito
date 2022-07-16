@@ -11,7 +11,7 @@
  
  - Conhecido como Faalco/Takkun/Takki nos fóruns de RPG Maker
  
- - Software Engineer na [Reserva](https://usereserva.com/) 🐦
+ - Front-end Engineer na [Reserva](https://usereserva.com/) 🐦
  
  - Amante da cervejas e de comidas
 

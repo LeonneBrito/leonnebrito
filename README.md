@@ -13,7 +13,7 @@
  
  - Front-end Engineer na [Reserva](https://usereserva.com/) 🐦
  
- - Amante da cervejas e de comidas
+ - Amante da cervejas e comidas
 
 
 ## 🔮 Minha Stack

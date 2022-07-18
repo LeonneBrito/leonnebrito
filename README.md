@@ -5,7 +5,7 @@
 ## 💡 Sobre mim :
  - Me chamo Leonne Sousa Brito e sou de Parauapebas, Pará. 
 
- - Fiz parte da primeira turma do Ignite de 2021.
+ - Fiz parte da primeira turma do Ignite (bootcamp da Rocketseat) de 2021.
  
  - Apaixonado por Desenvolvimento Web, em especial por Front End 💜
  

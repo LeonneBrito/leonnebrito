@@ -38,8 +38,8 @@
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/LeonneBrito/letsfy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonneBrito&repo=letsfy&theme=react&hide_border=true" />
+ <a href="https://github.com/LeonneBrito/leonnebrito.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonneBrito&repo=leonnebrito.com&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/LeonneBrito/dt.money">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonneBrito&repo=dt.money&theme=react&hide_border=true" />

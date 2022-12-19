@@ -11,7 +11,7 @@
  
  - Conhecido como Faalco/Takkun/Takki nos fóruns de RPG Maker
  
- - Front-end Engineer na [nave.rs](https://nave.rs/)  🚀
+ - Senior Software Engineer na [nav9](https://nav9.tech/)  🚀
  
  - Amante da cervejas e comidas
 
